@@ -1,3 +1,0 @@
-hello deepak this is first line of my code
-this is second line for testing.
-fixed AB#11
